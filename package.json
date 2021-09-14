@@ -1,7 +1,7 @@
 {
   "name": "booklab",
   "version": "1.0.0",
-  "description": "app for checking into laboratory",
+  "description": "lab booking app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/cerafinn/booklab/issues"
   },
-  "homepage": "https://github.com/cerafinn/booklab#readme"
+  "homepage": "https://github.com/cerafinn/booklab"
 }
