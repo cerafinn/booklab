@@ -1,0 +1,19 @@
+{
+  "name": "booklab",
+  "version": "1.0.0",
+  "description": "app for checking into laboratory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerafinn/booklab.git"
+  },
+  "author": "Andaleeb Farooq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerafinn/booklab/issues"
+  },
+  "homepage": "https://github.com/cerafinn/booklab#readme"
+}
